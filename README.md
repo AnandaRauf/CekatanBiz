@@ -23,4 +23,4 @@ CekatanBiz is Software Tools Data Analyst,Business Analyst,and Business Intellig
 - [Linkedin](https://www.linkedin.com/in/ananda-rauf-maududi-)
 
 # Proof Screenshoot
-- [Proof Screenshot]()
+- [Proof Screenshot](https://github.com/AnandaRauf/CekatanBiz/tree/main/Proof%20Screenshot)
