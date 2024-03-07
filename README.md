@@ -1,5 +1,5 @@
 # CekatanBiz
-#Feature: Data Analyst,Business Analyst,and Business Intelligence using PySpark.
+# Feature: Data Analyst,Business Analyst,and Business Intelligence using PySpark.
 # Version 1.0.0
 # Developed by Ananda Rauf Maududi
 # Copyright by PT Media Pengembangan Teknologi Indonesia Jaya
