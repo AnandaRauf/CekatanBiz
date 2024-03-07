@@ -14,11 +14,11 @@ CekatanBiz is Software Tools Data Analyst,Business Analyst,and Business Intellig
 - Setting Runtime Type: Choose T4 GPU
 - Install Library using Pip: pip install pyspark, and pip install plotly
 
-#How To Use
+# How To Use
 - Upload file dataset: climate_change_indicators.csv
 - click button play or CTRL+F9 in Google Collab.
 
-#Contacts
+# Contacts
 - [Send Email](https://mailto:anandaraufm@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/ananda-rauf-maududi-)
 
